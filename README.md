@@ -14,22 +14,12 @@
 </p>
 
 <p align="center">
-  <strong>Unified telemetry for AI agents, wherever they run.</strong>
+  <strong> A preemptive security layer for agent harnesses </strong>
 </p>
 
-<p align="center">
-  <a href="https://docs.asymptotelabs.ai">Docs</a>
-  ·
-  <a href="https://discord.gg/zdNChS2fBu">Discord</a>
-  ·
-  <a href="https://docs.asymptotelabs.ai/cli/installation">Install</a>
-  ·
-  <a href="https://docs.asymptotelabs.ai/cli/security-it-teams">For Security & IT Teams</a>
-  ·
-  <a href="https://docs.asymptotelabs.ai/cli/dashboard">Dashboard</a>
-  ·
-  <a href="https://docs.asymptotelabs.ai/cli/command-reference">Commands</a>
-</p>
+---
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## What is Agent Beacon
 
