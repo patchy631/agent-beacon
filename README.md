@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="images/beacon-hero.png" alt="Beacon" width="860">
+  <img src="images/beacon-hero.png" alt="Beacon" width="500">
 </p>
-
-<h1 align="center">Asymptote Lab's Agent Beacon</h1>
 
 <p align="center">
   <a href="https://github.com/asymptote-labs/agent-beacon/releases"><img src="https://img.shields.io/github/v/release/asymptote-labs/agent-beacon" alt="GitHub release"></a>
