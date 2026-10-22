@@ -3,7 +3,7 @@
   <img src="images/beacon-lockup-dark-mode.svg#gh-dark-mode-only" alt="Beacon" width="250">
 </p>
 
-<h1 align="center">Self‑improving memory for coding agents</h1>
+<h2 align="center">Self‑improving memory for coding agents</h2>
 
 <p align="center">
   <a href="https://github.com/asymptote-labs/agent-beacon/releases"><img src="https://img.shields.io/github/v/release/asymptote-labs/agent-beacon" alt="GitHub release"></a>
