@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="images/beacon-lockup-light-mode.svg#gh-light-mode-only" alt="Beacon" width="480">
-  <img src="images/beacon-lockup-dark-mode.svg#gh-dark-mode-only" alt="Beacon" width="480">
+  <img src="images/beacon-lockup-light-mode.svg#gh-light-mode-only" alt="Beacon" width="250">
+  <img src="images/beacon-lockup-dark-mode.svg#gh-dark-mode-only" alt="Beacon" width="250">
 </p>
 
 <h1 align="center">Self‑improving memory for coding agents</h1>
@@ -26,17 +26,12 @@
   <a href="https://docs.beacon.sh/cli">Commands</a>
 </p>
 
-<p align="center">
-  <a href="https://www.star-history.com/asymptote-labs/agent-beacon">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=Asymptote-Labs/agent-beacon&type=trending&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=Asymptote-Labs/agent-beacon&type=trending">
-      <img alt="GitHub Trending Repository of the Day" src="https://api.star-history.com/badge?repo=Asymptote-Labs/agent-beacon&type=trending">
-    </picture>
-  </a>
-</p>
 
 Beacon captures **agent session history** across Claude Code, Cursor, Codex, OpenCode, and 20+ other harnesses, then turns useful workflows, corrections, and debugging patterns into reusable knowledge for future agents.
+
+---
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **A problem solved by one agent shouldn't need to be learned from scratch by another.**
 
